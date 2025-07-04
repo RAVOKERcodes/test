@@ -1,1 +1,64 @@
-{}
+{
+  "projects": [
+    {
+      "name": "test",
+      "type": "web",
+      "description": "cjhgkg",
+      "technologies": [
+        "react"
+      ],
+      "image": "🚀",
+      "rarity": "Common",
+      "hp": 80,
+      "attack": 75,
+      "defense": 70,
+      "github": "",
+      "demo": "",
+      "id": "1751624979250"
+    }
+  ],
+  "experience": [
+    {
+      "title": "sr dev",
+      "company": "test",
+      "duration": "2002",
+      "description": "kjashd",
+      "skills": [
+        "node"
+      ],
+      "id": "1751624999274"
+    }
+  ],
+  "skills": [
+    {
+      "name": "react",
+      "level": 80,
+      "category": "Frontend",
+      "description": ",jhjk",
+      "id": "1751625009697"
+    }
+  ],
+  "subPages": [
+    {
+      "title": "test",
+      "slug": "test",
+      "description": "kjasdh",
+      "blocks": [],
+      "linkedToProject": "1751624979250",
+      "id": "1751625026049",
+      "createdAt": "2025-07-04T10:30:26.049Z",
+      "updatedAt": "2025-07-04T10:30:26.049Z"
+    }
+  ],
+  "siteInfo": {
+    "title": "PokePortfolio",
+    "description": "A Pokemon-themed portfolio website",
+    "author": "Pokemon Master",
+    "links": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "email": "master@pokemon.com",
+      "portfolio": "https://portfolio.com"
+    }
+  }
+}
